@@ -1,0 +1,7 @@
+E:\c#programming\employwages\employwages\bin\Debug\employwages.exe.config
+E:\c#programming\employwages\employwages\bin\Debug\employwages.exe
+E:\c#programming\employwages\employwages\bin\Debug\employwages.pdb
+E:\c#programming\employwages\employwages\obj\Debug\employwages.csproj.AssemblyReference.cache
+E:\c#programming\employwages\employwages\obj\Debug\employwages.csproj.CoreCompileInputs.cache
+E:\c#programming\employwages\employwages\obj\Debug\employwages.exe
+E:\c#programming\employwages\employwages\obj\Debug\employwages.pdb
