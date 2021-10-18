@@ -1,0 +1,7 @@
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\bin\Debug\UC 2.exe.config
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\bin\Debug\UC 2.exe
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\bin\Debug\UC 2.pdb
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\obj\Debug\UC 2.csproj.AssemblyReference.cache
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\obj\Debug\UC 2.csproj.CoreCompileInputs.cache
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\obj\Debug\UC 2.exe
+C:\Users\sarthak gangrade\source\repos\UC 2\UC 2\obj\Debug\UC 2.pdb
