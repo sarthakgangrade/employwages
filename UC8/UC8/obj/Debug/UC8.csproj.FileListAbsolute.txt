@@ -1,0 +1,7 @@
+E:\functional_programming\functional_programming\UC8\UC8\bin\Debug\UC8.exe.config
+E:\functional_programming\functional_programming\UC8\UC8\bin\Debug\UC8.exe
+E:\functional_programming\functional_programming\UC8\UC8\bin\Debug\UC8.pdb
+E:\functional_programming\functional_programming\UC8\UC8\obj\Debug\UC8.csproj.AssemblyReference.cache
+E:\functional_programming\functional_programming\UC8\UC8\obj\Debug\UC8.csproj.CoreCompileInputs.cache
+E:\functional_programming\functional_programming\UC8\UC8\obj\Debug\UC8.exe
+E:\functional_programming\functional_programming\UC8\UC8\obj\Debug\UC8.pdb
